@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "coldfoot",
-  description: "jinhyunkim",
+  description: "The Hotties Cam Videos",
   openGraph: {
     images: `${process.env.NEXT_PUBLIC_FE_SERVER_URL}/og_image.jpg`,
   },
