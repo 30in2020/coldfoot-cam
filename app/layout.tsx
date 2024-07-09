@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "coldfoot",
   description: "The Hotties Cam Videos",
   openGraph: {
-    images: `${process.env.NEXT_PUBLIC_FE_SERVER_URL}/og_image.jpg`,
+    images: `${process.env.NEXT_PUBLIC_FE_SERVER_URL}/og_image.png`,
   },
 };
 
